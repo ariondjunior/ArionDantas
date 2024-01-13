@@ -1,4 +1,4 @@
-<h3 align="left"> Hii!👋 <br> I'm a programming student from Brasil </h3>
+<h3 align="left"> Hii!👋 <br> I'm a programming student from Brazil </h3>
 
 ##
 
@@ -53,15 +53,4 @@
 </div>
 
 ##
-
-<h3 align="left">🤩 Technologies I'm interested in learning </h3>
-<br>
-
-   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" target="_blank"></a>
-   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" target="_blank"></a>
-   <a href="https://expressjs.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" target="_blank"></a>
-   <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" target="_blank"></a>
-    <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" target="_blank"></a>
-   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" target="_blank"></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" target="_blank"></a> 
 
